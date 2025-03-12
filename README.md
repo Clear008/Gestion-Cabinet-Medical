@@ -52,7 +52,7 @@ Le système est construit selon une architecture en couches (MVC):
 * Mettre à jour les données d'un patient en cliquant sur "Modifier"
 * Supprimer un patient en le sélectionnant puis en cliquant sur "Supprimer"
 
-![Capture d'écran de l'application](./images/Capture1.png)
+![Capture d'écran de l'application](./images/Capture1.PNG)
 
 ## Onglet Consultations
 ### L'interface de gestion des consultations permet de:
@@ -65,5 +65,5 @@ Le système est construit selon une architecture en couches (MVC):
 * Mettre à jour les détails d'une consultation en cliquant sur "Modifier"
 * Supprimer une consultation en la sélectionnant puis en cliquant sur "Supprimer"
 
-![Capture d'écran de l'application](./images/Capture2.png)
+![Capture d'écran de l'application](./images/Capture2.PNG)
 
